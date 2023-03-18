@@ -79,3 +79,40 @@ while right_stack.get_size() != num_disks:
 
 print("\n\nYou completed the game in {0} moves, and the optimal number of moves is {1}".format(num_user_moves, num_optimal_moves))
 ```
+
+Output Example:
+
+```
+Let's play Towers of Hanoi!!
+
+How many disks do you want to play with?
+3
+
+The fastest you can solve this game is in 7 moves
+
+...Current Stacks...
+Left Stack: [3, 2, 1]
+Middle Stack: []
+Right Stack: []
+
+
+###Game Moves Made###
+
+
+Which stack do you want to move from?
+
+Enter L for Left
+Enter M for Middle
+Enter R for Right
+L
+
+Which stack do you want to move to?
+
+Enter L for Left
+Enter M for Middle
+Enter R for Right
+R
+
+
+You completed the game in 7 moves, and the optimal number of moves is 7
+```
