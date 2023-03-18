@@ -2,8 +2,6 @@
 
 Towers of Hanoi is an ancient mathematical puzzle that starts off with three stacks and many disks.
 
-alt text
-
 The objective of the game is to move the stack of disks from the leftmost stack to the rightmost stack.
 
 The game follows three rules:
